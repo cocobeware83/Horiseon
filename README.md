@@ -29,8 +29,11 @@ Horiseon Social Solutions is a client focused site.  Whether you are a small bus
 Installation can be completed by cloning the repository from github:
 
 * Repository name: cocobeware83/cocobeware83.github.io
+
 _in terminal window_
+
 * $ git clone git@github.com:cocobeware83/cocobeware83.github.io.git
+
 _this will clone all files into your local directory_
 
 ### Link to Website
