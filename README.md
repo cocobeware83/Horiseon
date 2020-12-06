@@ -7,6 +7,8 @@
 2. Technologies Used
 3. Installation
 4. Link to Website
+5. Authors
+6. Thanks
 
 ### General Information
 ***
@@ -18,18 +20,34 @@ Horiseon Social Solutions is a client focused site.  Whether you are a small bus
 
 ### Technologies Used
 ***
-* VS Studio Code 
-* github
-* git bash
+* VS Studio Code - used to write HTML and CC styling
+* github - used to host repository and live website
+* Chrome DevTools - used for on the spot editing of HTML and CSS styling
 
 ### Installation
 ***
-Installation can be completed by cloning the repository: 
-* $ git clone git@github.com:cocobeware83/HoriseonRepo.git
+Installation can be completed by cloning the repository from github:
+
+* Repository name: cocobeware83/cocobeware83.github.io
+_in terminal window_
+* $ git clone git@github.com:cocobeware83/cocobeware83.github.io.git
+_this will clone all files into your local directory_
 
 ### Link to Website
 ***
-cocobeware83/cocobeware83.github.io
+https://cocobeware83.github.io/
+
+### Authors
+***
+* **Cory Neel** - _Initial HTML & CSS review_ - U.T. Coding Bootcamp Student
+
+### Thanks
+***
+Special thanks to all the contributors to Stack Overflow, and www.w3schools.com
+
+for all the guidance and advice I received during this project. Your shared
+
+experiences were vital to my success.
 
 
 
