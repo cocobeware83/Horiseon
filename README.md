@@ -1,6 +1,6 @@
 **Horiseon Social Solutions, Inc.**
 
-[screencapture-cocobeware83-github-io-2020-12-06-20_26_09.pdf](https://github.com/cocobeware83/cocobeware83.github.io/files/5650088/screencapture-cocobeware83-github-io-2020-12-06-20_26_09.pdf)
+![screencapture-cocobeware83-github-io-2020-12-06-20_22_41 (1)](https://user-images.githubusercontent.com/72768374/101302606-a76d1a00-3801-11eb-9245-e9c6c62fa300.png)
 
 
 
