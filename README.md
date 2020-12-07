@@ -1,6 +1,7 @@
 **Horiseon Social Solutions, Inc.**
 
-![Screenshot (8)](https://user-images.githubusercontent.com/72768374/101285651-ff793180-37ab-11eb-88c1-a4d81d5e7cd4.png)
+![screencapture-cocobeware83-github-io-2020-12-06-20_22_41](https://user-images.githubusercontent.com/72768374/101302296-de8efb80-3800-11eb-83f8-e8cc86db0917.png)
+
 
 ## Table of Contents
 1. General Information
